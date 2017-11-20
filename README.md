@@ -11,4 +11,5 @@
 >>>資管1A 0624045	王品捷:star2::star2::star2:
 
 
-![NKFUST](NKFUST.jpg "第一科大")(http://www.nkfust.edu.tw/bin/home.php)
+![NKFUST](NKFUST.jpg "第一科大")
+[NKFUST](http://www.nkfust.edu.tw/bin/home.php)
