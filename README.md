@@ -4,7 +4,7 @@
 
 ## 專題題目 : 城市戰機
 
-![NKFUST](NKFUST.jpg "第一科大")
+![NKFUST](Game.jpg "第一科大")
 
 ## 小組成員:
 
